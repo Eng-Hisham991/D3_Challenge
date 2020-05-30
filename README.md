@@ -20,21 +20,6 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 are free to investigate a different data set. The current data set incldes data on 
 rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
 
-### Before You Begin
-
-1. Create a new repository for this project called `D3-challenge`. 
-**Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the D3 challenge. 
-Use the folder name to correspond to the challenge: **D3_data_journalism**.
-
-4. This homeworks utilizes both **html** and **Javascript** so be sure to add 
-all the necessary files. These will be the main files to run for analysis.
-
-5. Push the above changes to GitHub or GitLab.
-
 ## Your Task
 
 ### Core Assignment: D3 Dabbler (Required Assignment)
@@ -59,9 +44,7 @@ This will host the page at `localhost:8000` in your web browser.
 
 - - -
 
-### Bonus: Impress the Boss (Optional Assignment)
-
-Why make a static graphic when D3 lets you interact with your data?
+### Bonus: 
 
 ![7-animated-scatter](Images/7-animated-scatter.gif)
 
@@ -95,22 +78,7 @@ to see how you should implement tooltips with d3-tip.
 
 - - -
 
-### Assessment
 
-Your final product will be assessed on the following metrics:
-
-* Creation of a **new** repository on GitHub called `D3-Challenge` 
-(note the kebab-case). Do not add to an already existing repo.
-
-* Completion of all steps in the core assignment
-
-* Coherency of scatter plot (labels, ticks)
-
-* Visual attraction
-
-* Professionalism
-
-**Good luck!**
 
 ### Copyright
 
