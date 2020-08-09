@@ -82,4 +82,4 @@ to see how you should implement tooltips with d3-tip.
 
 ### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+HISHAM ELHASSAN © 2020. All Rights Reserved.
